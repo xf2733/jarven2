@@ -1,0 +1,1 @@
+编译加运行：mvn clean compile exec:java -Dexec.mainClass=com.hand.App
